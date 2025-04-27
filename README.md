@@ -1,2 +1,2 @@
-# VoyageurDeCommerce
-Implémentation de l'algorithme génétique pour résoudre le problème du voyageur de commerce (TSP).
+#PlusCourtChemin
+Implémentation de l'algorithmes Ford, Dijikstra
